@@ -1,1 +1,3 @@
 # SpeciesSubspeciesDetermination
+#data needs to be formatted a) with headers <StrainNumber1 StrainNumber2 ANIb Formula 2: DDH> and b) sorted by StrainNumber1 then StrainNumber2 
+#input file needs to be named "input.txt"   A sample file is provided.
